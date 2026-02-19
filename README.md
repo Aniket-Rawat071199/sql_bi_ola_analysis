@@ -186,7 +186,24 @@ Cancellations significantly affect operational efficiency.
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](images/ola_dashboard.png)
+##  Dashboard Highlights
+
+###  Overall Bookings Trend
+![Bookings Trend](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/images_/Screenshot%202026-02-16%20123254.png)
+
+###  Revenue & Payment Method Summary
+![Revenue & Payment](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/images_/Screenshot%202026-02-16%20123347.png)
+
+###  Cancellation & Status Insights
+![Cancellation & Status](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/images_/Screenshot%202026-02-16%20123409.png)
+
+###  Ride Cancellation & Status Insights
+![Cancellation Breakdown](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/images_/Screenshot%202026-02-16%20133411.png)
+
+###  Revenue by Payment & Ride Status
+![Revenue & Status Patterns](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/images_/Screenshot%202026-02-16%20133441.png)
+
+
 
 ---
 
@@ -200,4 +217,10 @@ Cancellations significantly affect operational efficiency.
 
 **Aniket Rawat**  
 Data Analyst | Power BI | Business Intelligence  
+
+Gmail :- arvianshrwt1999@gmail.com
+
+Linkedin :- 
+
+Github :- 
 
