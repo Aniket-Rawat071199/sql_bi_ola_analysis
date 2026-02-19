@@ -207,9 +207,29 @@ Cancellations significantly affect operational efficiency.
 
 ---
 
-##  Project Report
 
-👉 [View Detailed Report](reports/analysis_report.pdf)
+##  Detailed Analysis Report
+
+
+ [View OLA Analysis Detailed Report](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/analysis_report.pdf)
+
+> Note: The PDF is hosted in this repository for easy access.
+
+
+---
+
+
+## 📊 Project Presentation
+
+
+[View OLA Presentation](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/presentation.md)
+
+> Note: This is the presentation file hosted in this repository.
+
+
+---
+
+
 
 ---
 
