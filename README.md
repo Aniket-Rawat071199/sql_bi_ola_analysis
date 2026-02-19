@@ -219,7 +219,7 @@ Cancellations significantly affect operational efficiency.
 ---
 
 
-## 📊 Project Presentation
+##  Project Presentation
 
 
 [View OLA Presentation](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/presentation.md)
@@ -228,6 +228,12 @@ Cancellations significantly affect operational efficiency.
 
 
 ---
+
+
+## Interactive Report Presentation
+
+
+[view Interavtive Bi presentation](https://github.com/Aniket-Rawat071199/sql_bi_ola_analysis/blob/main/interactive_report_presentation.md)
 
 
 
@@ -240,7 +246,7 @@ Data Analyst | Power BI | Business Intelligence
 
 Gmail :- arvianshrwt1999@gmail.com
 
-Linkedin :- 
+Linkedin :- www.linkedin.com/in/aniket-rawat-4406b3aa
 
-Github :- 
+Github :- https://github.com/Aniket-Rawat071199
 
